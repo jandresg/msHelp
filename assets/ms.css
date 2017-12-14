@@ -1,3 +1,9 @@
-{
-  font:
+@font-face {
+  font-family: 'ModernNo20';
+  src: url('./fonts/modernNo20/hinted-Modern-Regular.woff2') format('woff2'),
+       url('./fonts/modernNo20/hinted-Modern-Regular.woff') format('woff');
+}
+
+h1 {
+  font: 'ModernNo20';
 }

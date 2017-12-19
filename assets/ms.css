@@ -1,9 +1,15 @@
 @font-face {
-  font-family: 'ModernNo20';
-  src: url('./fonts/modernNo20/hinted-Modern-Regular.woff2') format('woff2'),
-       url('./fonts/modernNo20/hinted-Modern-Regular.woff') format('woff');
+    font-family: 'Modern No. 20';
+    src: url('hinted-Modern-Regular.woff2') format('woff2'),
+        url('hinted-Modern-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 h1 {
-  font: 'ModernNo20';
+  font-family: 'Modern No. 20';
+}
+
+.navbar-brand {
+  font-family: 'Modern No. 20';
 }

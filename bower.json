@@ -19,6 +19,7 @@
     "bootstrap": "^3.3.7",
     "modernizr": "^3.5.0",
     "font-awesome": "fontawesome#^4.7.0",
-    "bootstrap-validator": "^0.11.9"
+    "bootstrap-validator": "^0.11.9",
+    "Ionicons": "ionicons#^2.0.1"
   }
 }

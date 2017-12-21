@@ -237,7 +237,7 @@ td, th {
   }
   .navbar {
     display: none;
-    color: #046a68;
+    color: #046A38;
   }
   .btn>.caret, .dropup>.btn>.caret {
     border-top-color: #000 !important;
@@ -3221,7 +3221,7 @@ textarea.input-lg, select[multiple].input-lg {
   outline-offset: -2px;
 }
 
-.btn:hover, .btn:focus, .btn.focus {
+.btn:focus, .btn.focus {
   color: #333;
   text-decoration: none;
 }
@@ -4308,6 +4308,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 }
 
 .navbar {
+  color: "#046A38";
   position: relative;
   min-height: 50px;
   margin-bottom: 20px;

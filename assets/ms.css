@@ -6,10 +6,35 @@
     font-style: normal;
 }
 
-h1 {
+h1, li {
   font-family: 'Modern No. 20';
 }
 
 .navbar-brand {
   font-family: 'Modern No. 20';
+}
+.navbar-nav {
+  color: rgb(4, 106, 56);
+}
+.btn, .btn-default {
+  font-family: 'Modern No. 20';
+  color: #046a38;
+}
+
+.carousel {
+  margin: auto;
+}
+
+.helpButtons{
+  margin: auto;
+}
+.btn:hover {
+  color: #83bb30;
+}
+
+.color1 {
+  color: #046a38;
+}
+.colour2 {
+  color: #83bb30;
 }

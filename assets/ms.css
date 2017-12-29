@@ -20,15 +20,16 @@ h1, li, button {
 .btn, .btn-default {
   font-family: 'Modern No. 20';
   color: #046a38;
+  font-size: 25px;
 }
 
 .row {
   margin: auto;
 }
-.carousel {
+/* .carousel {
   margin: auto;
   transition: 0.7s, ease-in-out left;
-}
+} */
 
 .helpButtons{
   margin: auto;

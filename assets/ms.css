@@ -8,19 +8,38 @@
 
 h1, li, button {
   font-family: 'Modern No. 20';
+  font-size: 18px;
 	color: #046a38;
 }
 
+jumbotron-custom{
+
+}
+/*School Crest */
 .navbar-brand {
   font-family: 'Modern No. 20';
+  color: white;
+  font-size: 25px;
+  padding: 0px;
 }
-.navbar-nav {
-  color: rgb(4, 106, 56);
+.navbar-brand>img {
+  height: auto;
+  padding 15px;
+  width: auto;
 }
+
+.navbar-custom {
+  background-color: #046a38;
+      color:#ffffff;
+    }
+
 .btn, .btn-default {
   font-family: 'Modern No. 20';
   color: #046a38;
   font-size: 25px;
+}
+ul.dropdown-menu {
+  background-color: #046a38;
 }
 
 .row {
@@ -41,6 +60,6 @@ h1, li, button {
 .color1 {
   color: #046a38;
 }
-.colour2 {
+.color2 {
   color: #83bb30;
 }

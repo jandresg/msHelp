@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Modern No. 20';
-    src: url('hinted-Modern-Regular.woff2') format('woff2'),
-        url('hinted-Modern-Regular.woff') format('woff');
+    src: url('./assets/fonts/modernNo20/hinted-Modern-Regular.woff2') format('woff2'),
+        url('./assets/fonts/modernNo20/hinted-Modern-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }

@@ -30,7 +30,11 @@ h1, li, button {
 
 .navbar-custom {
   background-color: #83bb30;
+  z-index: 0;
   /* height: 75px; */
+  }
+  .navbar-toggler {
+    background-color: blue;
   }
 
 .btn, .btn-default {

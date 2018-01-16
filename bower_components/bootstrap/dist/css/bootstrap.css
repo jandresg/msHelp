@@ -40,6 +40,7 @@ a {
 
 a:active, a:hover {
   outline: 0;
+  z-index: 1;
 }
 
 abbr[title] {

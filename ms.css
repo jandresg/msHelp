@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'Modern No. 20';
+    src: url(./assets/fonts/modernNo20/hinted-Modern-Regular.woff2) format('woff2'),
+        url(./assets/fonts/modernNo20/hinted-Modern-Regular.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1, li {
+  font-family: 'Modern No. 20';
+  font-size: 18px;
+	color: #046a38;
+}
+.button {
+font-size: 50px;
+  color: #046a38;
+}
+
+h2 {
+  font-size: 20px;
+  color: #046a38;
+}
+
+h4 {
+  font-size: 25px;
+  font-weight: normal;
+  color: #046a38;
+}
+a {
+  
+}
+/*School Crest */
+.navbar-brand {
+  font-family: 'Modern No. 20';
+  font-weight: lighter;
+  font-size: 30px;
+  color: #046a38;
+  /* width: 250px;
+  opacity: 1;
+  left: 15px;
+  max-width: 500px; */
+}
+.space {
+  display: flex;
+  justify-content: space-between;
+  max-width: 400px;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding: 20px;
+}
+span {
+  width: 50px;
+  height: 50px;
+}
+/* .navbar-brand>img {
+  height: auto;
+  padding: 15px;
+  width: auto;
+} */
+
+.navbar-custom {
+  background-color: #83bb30;
+  z-index: 0;
+  /* height: 75px; */
+  }
+  .navbar-toggler {
+    background-color: blue;
+  }
+
+.btn, .btn-default {
+  font-family: 'Modern No. 20';
+  color: #046a38;
+}
+
+.btn-custom {
+  font-size: 50px;
+}
+
+.dropdown-menu {
+  background-color: #83bb30;
+}
+
+.row {
+  margin: auto;
+}
+/* .carousel {
+  margin: auto;
+  transition: 0.7s, ease-in-out left;
+} */
+
+.helpButtons{
+  margin: auto;
+}
+.btn:hover {
+  color: #83bb30;
+}
+
+.color1 {
+  color: #046a38;
+}
+.color2 {
+  color: #83bb30;
+}
